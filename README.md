@@ -1,5 +1,6 @@
 ### Oi! 👋
 ### Eu sou o Senhor Filipe!
+##### Estou cursando Engenharia de Computação e criei este perfil para publicar alguns estudos que forem realizados durante o curso. 
 
 
 <!--
