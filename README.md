@@ -1,6 +1,6 @@
 ### Oi! 👋
 ### Eu sou o Senhor Filipe!
-##### Estou cursando Engenharia de Computação e criei este perfil para publicar alguns estudos que forem realizados durante o curso. 
+##### Sou formado em Engenharia de Computação e criei este perfil, em 22/02/2021, para publicar alguns estudos que seriam (e depois foram) realizados durante o curso.
 
 
 <!--
